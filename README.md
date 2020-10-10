@@ -1,3 +1,5 @@
+![David Betteridge](https://github.com/DavidBetteridge/DavidBetteridge/blob/main/me%20(2).png)
+
 ### Welcome to my GitHub account 👋
 
 For those interested in my YouTube channel, [click here](https://www.youtube.com/channel/UC1OfNaKKT8O3ft0cQFnOJhg)
