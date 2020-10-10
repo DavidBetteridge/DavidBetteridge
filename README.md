@@ -1,6 +1,6 @@
-### Welcome to my GitHub accounts 👋
+### Welcome to my GitHub account 👋
 
-For those interested in my YouTube channel, (click here)[https://www.youtube.com/channel/UC1OfNaKKT8O3ft0cQFnOJhg]
+For those interested in my YouTube channel, [click here](https://www.youtube.com/channel/UC1OfNaKKT8O3ft0cQFnOJhg)
 
 <!--
 **DavidBetteridge/DavidBetteridge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
