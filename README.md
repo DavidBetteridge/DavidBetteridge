@@ -2,7 +2,7 @@
 
 ### Welcome to my GitHub account 👋
 
-For those interested in my YouTube channel, [click here](https://www.youtube.com/channel/UC1OfNaKKT8O3ft0cQFnOJhg)
+For those interested in my YouTube channel, [click here](https://www.youtube.com/channel/UC1OfNaKKT8O3ft0cQFnOJhg) and for my website [click here](https://davidbetteridge.net)
 
 <!--
 **DavidBetteridge/DavidBetteridge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
